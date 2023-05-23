@@ -1,0 +1,6 @@
+1) Add the navigation dependencies.
+2) implement the navigation composable.
+3) Create the composable for the bottom navigation view
+4) create the BottomNavItem class for the parameters of the bottomNavigation composable. we are creating this because BottomNavigation
+composable take lot of parameter
+5) now we create the list<BottomNavItem> as the parameter for the BottomNavigation composable
